@@ -1,5 +1,6 @@
 # Olist Challenge
 A password validator component made with React Native
+Was constructed using TDD aproach with Jest and Enzyme.
 
 [Olist Challenge VÍDEO DEMO](https://photos.google.com/u/1/photo/AF1QipOskJ8aL2x-xKyCRXHWLhReiqoLv_aQuhS3iaqf "Olist Challenge VÍDEO DEMO")
 
